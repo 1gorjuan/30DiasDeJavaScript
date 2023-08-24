@@ -1,0 +1,10 @@
+ soma = 5 + 3;
+ subtracao = 10 - 4;
+ multiplicacao = 6 * 7;
+ divisao = 20 / 5;
+ resto = 15 % 4;
+ potencia = Math.pow(2, 3);
+ raizQuadrada = Math.sqrt(16);
+ arredondado = Math.round(4.7);
+ absoluto = Math.abs(-7);
+ aleatorio = Math.random();
